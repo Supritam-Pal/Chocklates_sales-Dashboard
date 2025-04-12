@@ -19,11 +19,11 @@ Category Analysis: Revenue and quantity by chocolate category (e.g., Dark, Milk,
 Customer Segments: Breakdown of sales by customer type or channel (if applicable).
 
 🛠️ Tools Used
-Power BI Desktop – for report building and visualization.
+**Power BI Desktop** – for report building and visualization.
 
-DAX – for calculated measures and KPIs.
+**Power Query** - Data Cleaning & Transformation Made Easy
 
-Excel/CSV – as a sample data source (not included for privacy).
+**Excel/CSV** – as a sample data source (not included for privacy).
 
 📁 Files
 Chocklate-Sales.pdf: A PDF snapshot of the final dashboard for quick reference or presentation.
