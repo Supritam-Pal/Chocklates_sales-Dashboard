@@ -19,6 +19,7 @@ Category Analysis: Revenue and quantity by chocolate category (e.g., Dark, Milk,
 Customer Segments: Breakdown of sales by customer type or channel (if applicable).
 
 🛠️ Tools Used
+
 **Power BI Desktop** – for report building and visualization.
 
 **Power Query** - Data Cleaning & Transformation Made Easy
