@@ -1,5 +1,9 @@
 
 🍫 Chocolate Sales Dashboard - Power BI , Excel
+<img width="1186" height="686" alt="Screenshot 2026-06-12 143050" src="https://github.com/user-attachments/assets/d5049e6b-d55f-4aed-948b-54fc97815eeb" />
+<img width="1263" height="742" alt="Screenshot 2026-06-12 143101" src="https://github.com/user-attachments/assets/005b8619-e1d0-43b9-97ea-6b8d2e94dd30" />
+
+
 
 This repository contains a Power BI dashboard that visualizes and analyzes chocolate sales performance. The dashboard provides insights into sales metrics, regional performance, top-performing products, and revenue trends, enabling stakeholders to make data-driven decisions.
 
